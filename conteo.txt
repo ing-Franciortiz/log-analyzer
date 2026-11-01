@@ -1,2 +1,0 @@
-IP: 203.0.113.5, Count: 5
-User: admin, Count: 4
